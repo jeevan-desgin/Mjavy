@@ -1,0 +1,2 @@
+# Mjavy
+Event Management system 
